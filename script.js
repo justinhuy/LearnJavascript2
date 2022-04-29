@@ -32,18 +32,6 @@
 //  let age2 = calAge2(1996);
 //  console.log(age2);
 
- //Arrow Function
-
-//  let yearsUntilRetirement = (birthYears, firstName) => {
-//      let age = 2022 - birthYears;
-//      let retirement = 65 - age;
-//     //  return retirement;
-//     return `${firstName} retires in ${retirement} years`;
-//  }
-
-//  console.log(yearsUntilRetirement(1996, "Huy"));
-
-
 
 // function cutFruitPieces (fruit) {
 //     return fruit * 4;
